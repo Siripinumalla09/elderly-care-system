@@ -1,0 +1,21 @@
+.post{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwpPpoHHfrX2asGVTk6NdjopcX7s9rcuCZkg&usqp=CAU);
+    
+    padding:30px;
+}   
+.profile-image{
+    width:100%;
+}
+.card-hover:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  }
+  
+.card-style{
+    overflow: auto;
+}
+.card-decoration{
+    height:250px;
+    overflow-y:scroll ;
+}
